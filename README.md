@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">👋 Olá, eu sou David!<br><br>Sou Analista de Suporte Técnico, formado em Análise e Desenvolvimento de Sistemas.<br><br>Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, com foco em Java e Backend.</p>
+<p data-importer="text" align="left">👋 Olá, eu sou David!<br><br>Profissional de Tecnologia formado em Análise e Desenvolvimento de Sistemas, Com 4 anos de experiência em Suporte Técnico, Infraestrutura e Implantação de Sistemas, atualmente focando em desenvolvimento backend com Java, APIs REST e SQL.</p>
 
 ###
 
@@ -52,10 +52,12 @@
 
 ###
 
+<br clear="both">
+
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-Andrades/David-Andrades/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David-Andrades/David-Andrades/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/David-Andrades/David-Andrades/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-Andrades/David-Andrades/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David-Andrades/David-Andrades/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/David-Andrades/David-Andrades/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 ###
